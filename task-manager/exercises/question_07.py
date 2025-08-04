@@ -3,7 +3,8 @@
 #and returns the result as a list containing 
 #numbers up to a certain limit?
 
-number = int (input ("enter ther sequence: "  ))
+
+'''number = int (input ("enter ther sequence: "  ))
 # variable:
 fib_befor = 1
 fib_now=1
@@ -30,7 +31,7 @@ if number > 2:
         #print ( "fib_befor = " , fib_befor , "fib_now = " , fib_now  , "fib_betwin = ", fib_befor)            
         #print ( "......")
         #print ( "fib_befor = " , fib_befor , "fib_now = " , fib_now  , "fib_betwin = ", fib_befor)
-    print ( " the Fibonacci sequence of " , number, " = ", fib_now )
+    print ( " the Fibonacci sequence of " , number, " = ", fib_now )'''
 
 
 
