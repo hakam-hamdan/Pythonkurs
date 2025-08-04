@@ -8,8 +8,12 @@ b=1
 while a<= num:
     print(a)
     a,b=b,a+b
+<<<<<<< HEAD
   
     #Hakam
+=======
+# test 2
+>>>>>>> a610d3225924286ec92e1c5993eb17c14aa184fd
 '''number = int (input ("enter ther sequence: "  ))
 # variable:
 fib_befor = 1
