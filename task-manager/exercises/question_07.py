@@ -11,9 +11,9 @@ while a<= num:
 <<<<<<< HEAD
   
     #Hakam
-=======
+#=======
 # test 2
->>>>>>> a610d3225924286ec92e1c5993eb17c14aa184fd
+
 '''number = int (input ("enter ther sequence: "  ))
 # variable:
 fib_befor = 1
