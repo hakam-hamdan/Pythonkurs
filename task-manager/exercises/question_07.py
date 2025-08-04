@@ -8,7 +8,7 @@ number = int (input ("enter ther sequence: "  ))
 fib_befor = 1
 fib_now=1
 fib_betwin=1
-
+#bjhgg
 if number == 0:
 	print ( " the Fibonacci sequence of 0 = 0 " )
 
