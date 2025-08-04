@@ -2,7 +2,12 @@
 #that calculates the Fibonacci sequence 
 #and returns the result as a list containing 
 #numbers up to a certain limit?
-
+num=int(input("enter num:"))
+a=0
+b=1
+while a<= num:
+    print(a)
+    a,b=b,a+b
 
 '''number = int (input ("enter ther sequence: "  ))
 # variable:
