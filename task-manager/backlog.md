@@ -108,7 +108,7 @@ git push origin student1-data-setup
 
 تدمج الفروع واحدًا تلو الآخر
 
-
+merge pull Request
 
 ---
 
