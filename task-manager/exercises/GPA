@@ -1,0 +1,35 @@
+#Python_Modul_Week_2
+#Question1: Student Grades Processing
+#You need to write a Python program to process a student's grades. The program needs to perform the following functions:
+#Store information and notes for 10 students using a dictionary. 
+#Let each student have their name, surname and grades (Midterm, Final and Oral grades). 
+#For example:
+#students ={ 'Ahmet Yilmaz'  : [ 85, 90, 78], #Midterm, Final, Oral
+#            'Mehmet Demir'  : [ 92, 88, 76],
+#            'Ayse Kaya'     : [ 78, 89, 95],
+#            'Zeynep Celik'  : [ 65, 70, 80],
+#            'Ali Kara'      : [ 50, 60, 55],
+#            'Fatma Yildiz'  : [ 88, 85, 90],
+#            'Murat Aydin'   : [ 72, 68, 74],
+#            'Elif Aksoy'    : [ 95, 90, 88],
+#            'Hakan Ozturk'  : [ 45, 50, 55],
+#            'Canan Tas'     : [ 80, 75, 82]
+#            }
+
+#1-Calculate each student's GPA (Grade Point Average) and add it to the dictionary.
+#2-Find the student with the highest GPA and print it on the screen.
+#3- Separate each student's name from their surname and store them in a separate tuple and add them to a list.
+#4-Sort the names in alphabetical order and print the sorted list on the screen.
+#5-Keep students with a GPA below 70 in a cluster (set).
+
+students ={ 'Ahmet Yilmaz'  : [ 85, 90, 78], #Midterm, Final, Oral
+            'Mehmet Demir'  : [ 92, 88, 76],
+            'Ayse Kaya'     : [ 78, 89, 95],
+            'Zeynep Celik'  : [ 65, 70, 80],
+            'Ali Kara'      : [ 50, 60, 55],
+            'Fatma Yildiz'  : [ 88, 85, 90],
+            'Murat Aydin'   : [ 72, 68, 74],
+            'Elif Aksoy'    : [ 95, 90, 88],
+            'Hakan Ozturk'  : [ 45, 50, 55],
+            'Canan Tas'     : [ 80, 75, 82]
+            }
