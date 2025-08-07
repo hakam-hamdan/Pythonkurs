@@ -8,12 +8,13 @@ b=1
 while a<= num:
     print(a)
     a,b=b,a+b
-<<<<<<< HEAD
-  
+
     #Hakam
 #=======
 # test 2
 
+#=======
+#khitam
 '''number = int (input ("enter ther sequence: "  ))
 # variable:
 fib_befor = 1
