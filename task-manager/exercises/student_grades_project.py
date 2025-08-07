@@ -14,7 +14,6 @@
 #   ...
 # }
 
-students = {}
 students = {'Ahmet Yilmaz'  : [ 85, 90, 78], #Midterm, Final, Oral
             'Mehmet Demir'  : [ 92, 88, 76],
             'Ayse Kaya'     : [ 78, 89, 95],
