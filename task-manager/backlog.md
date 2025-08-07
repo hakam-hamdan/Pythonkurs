@@ -76,6 +76,11 @@ Task 3: المعالجة الإضافية
 
 
 ---
+git pull origin main
+----------------------
+PS C:\Users\Hakam\Source\Repos\Pythonkurs> git checkout -b HAKAM-feature-gpa
+------------------------------------------------
+
 
 2. يفتح كل طالب فرع (branch) خاص به
 
